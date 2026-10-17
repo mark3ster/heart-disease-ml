@@ -9,7 +9,7 @@ Clasificación de enfermedad cardíaca con el dataset [Heart Disease (UCI)](http
 | Archivo | Descripción |
 |---|---|
 | `heart_disease_analysis.ipynb` | Notebook con todo el código: preprocesamiento, EDA, modelos, PCA y KNN |
-| `docs/informe_final.pdf` | Memoria del trabajo (resultados, discusión y conclusiones) |
+| `TrabajoFinal_MarcosJimenez.pdf` | Memoria del trabajo (resultados, discusión y conclusiones) |
 | `requirements.txt` | Dependencias |
 
 ## Metodología
