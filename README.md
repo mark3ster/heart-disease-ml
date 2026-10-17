@@ -51,7 +51,7 @@ jupyter notebook heart_disease_analysis.ipynb
 
 El dataset se descarga automáticamente con `ucimlrepo`, así que no hay que añadir datos al repositorio.
 
-## Autores
+## Autor
 
 - Marcos Jiménez González
-- David Antonio Rosas Espín
+
